@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/noelsky-code/todoList.io/static/css/main.1125f3b9.chunk.css",
+    "main.js": "/noelsky-code/todoList.io/static/js/main.e6b958ed.chunk.js",
+    "main.js.map": "/noelsky-code/todoList.io/static/js/main.e6b958ed.chunk.js.map",
+    "runtime-main.js": "/noelsky-code/todoList.io/static/js/runtime-main.6ecda074.js",
+    "runtime-main.js.map": "/noelsky-code/todoList.io/static/js/runtime-main.6ecda074.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/noelsky-code/todoList.io/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9cb2bf26.chunk.js": "/noelsky-code/todoList.io/static/js/2.9cb2bf26.chunk.js",
+    "static/js/2.9cb2bf26.chunk.js.map": "/noelsky-code/todoList.io/static/js/2.9cb2bf26.chunk.js.map",
+    "index.html": "/noelsky-code/todoList.io/index.html",
+    "precache-manifest.412eb4f1f58f8da4cef191ed41ee90c0.js": "/noelsky-code/todoList.io/precache-manifest.412eb4f1f58f8da4cef191ed41ee90c0.js",
+    "service-worker.js": "/noelsky-code/todoList.io/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/noelsky-code/todoList.io/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1125f3b9.chunk.css.map": "/noelsky-code/todoList.io/static/css/main.1125f3b9.chunk.css.map",
+    "static/js/2.9cb2bf26.chunk.js.LICENSE.txt": "/noelsky-code/todoList.io/static/js/2.9cb2bf26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ecda074.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9cb2bf26.chunk.js",
+    "static/css/main.1125f3b9.chunk.css",
+    "static/js/main.e6b958ed.chunk.js"
+  ]
+}
